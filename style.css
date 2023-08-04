@@ -1,0 +1,42 @@
+.header{
+    background-color: antiquewhite;
+    display: flex;
+    
+    
+    
+    
+}
+.img{
+    width: 300px;
+}
+.header1{
+    border: 2px solid cornsilk;
+    font-size: x-large;
+    /* width: 200px; */
+    /* height: 30px; */
+    color: darkslateblue;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+    }
+.popi{
+background-color: aliceblue;
+width: 500px;
+}
+.kk{
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.deux , .trois{
+    display: none;
+}
+.btn{
+    text-align: center;
+    
+}
